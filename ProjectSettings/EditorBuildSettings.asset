@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SceneNinjaGirl.unity
+    guid: 3dc8e3256b6c89846a707970ab9dce1f
+  - enabled: 1
+    path: Assets/Scenes/Perdiste.unity
+    guid: 1079f1a552e647d4b9d0370771826c28
+  - enabled: 1
+    path: Assets/Scenes/Ganaste.unity
+    guid: a02ec8add4812ba498fc086467277950
+  m_configObjects: {}
